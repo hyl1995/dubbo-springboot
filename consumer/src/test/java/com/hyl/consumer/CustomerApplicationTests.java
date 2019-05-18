@@ -1,4 +1,4 @@
-package com.hyl.customer;
+package com.hyl.consumer;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
