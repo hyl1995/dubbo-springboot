@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 @EnableDubboConfiguration
-//@ComponentScan(basePackages = { "com.hyl.consumer.service" })
+//@ComponentScan(basePackages = { "com.hyl.consumer" })
 public class CustomerApplication {
 
     public static void main(String[] args) {
